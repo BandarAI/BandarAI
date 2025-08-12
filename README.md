@@ -16,8 +16,9 @@
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-
+<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -32,12 +33,26 @@
 </a>
 </td>
 </tr>
+
+<tr>
+<td>
+<a href="https://github.com/BandarAI/SmartMethodsTraining" title="Smart-Methods COOP">
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=SmartMethodsTraining&theme=tokyonight&border_color=61dafb&border_radius=10">
+</a>
+</td>
+<td>
+<a href="https://github.com/BandarAI/Coderhub-Challenges" title="Coderhub Challenges">
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=Coderhub-Challenges&theme=tokyonight&border_color=61dafb&border_radius=10">
+</a>
+</td>
+</tr>
+ 
 </table>
+-->
 
 
 
 
-<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -51,7 +66,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-
+<!--
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BandarAI/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10">
