@@ -4,5 +4,9 @@
 </p>
 
 <p align="center">
+  <img alt="BandarAI's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=BandarAI&theme=tokyonight&hide_border=true&short_numbers=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandarAI&theme=tokyonight&area=true&hide_border=true&bg_color=ffffff00" />
 </p>
