@@ -52,6 +52,7 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BandarAI/SmartMethodsTraining" title="Smart-Methods COOP">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=SmartMethodsTraining&theme=tokyonight&border_color=61dafb&border_radius=10">
@@ -64,11 +65,19 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/BandarAI/Samsung-Innovation-Campus-2025" title="Samsung-Innovation-Campus-2025">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=Samsung-Innovation-Campus-2025&theme=tokyonight&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/BandarAI/CNN-Animal-Classification" title="CNN-Animal-Classification">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=CNN-Animal-Classification&theme=tokyonight&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
   <a align="left" href="https://github.com/BandarAI/STC-Virtual-Work-Experience" title="STC-Virtual-Work-Experience">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=STC-Virtual-Work-Experience&theme=tokyonight&border_color=61dafb&border_radius=10">
-  </a>
-<a align="right" href="https://github.com/BandarAI/Samsung-Innovation-Campus-2025" title="Samsung-Innovation-Campus-2025">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=Samsung-Innovation-Campus-2025&theme=tokyonight&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
@@ -78,25 +87,16 @@
   <a align="left" href="https://github.com/BandarAI/GRU-vs-LSTM-in-Arabic-Sentiment-Analysis" title="GRU-vs-LSTM-in-Arabic-Sentiment-Analysis">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=GRU-vs-LSTM-in-Arabic-Sentiment-Analysis&theme=tokyonight&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/BandarAI/CNN-Animal-Classification" title="CNN-Animal-Classification">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BandarAI&repo=CNN-Animal-Classification&theme=tokyonight&border_color=61dafb&border_radius=10">
-  </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
-
-
-
 
 <h4 align="center">
   <a href="https://github.com/BandarAI?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bandarai/bandarai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bandarai/bandarai/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bandarai/bandarai/output/pacman-contribution-graph.svg">
 </picture>
-
--->
