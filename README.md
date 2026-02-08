@@ -12,7 +12,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandarAI&theme=tokyonight&area=true&hide_border=true&bg_color=ffffff00" />
 </p>
  -->
-<h2 align="center">👨‍💻 Repositories👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 | #️⃣ | Repository 📦 | Description 📝 | Field 🌐 | Tools 🛠️ |
 |---|-----------|------------|-------|-------|
